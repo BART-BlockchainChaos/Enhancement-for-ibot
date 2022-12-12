@@ -1,2 +1,2 @@
-# Enhancement-for-i-bot
+# Enhancement for ibot
 Enhancement for i***bot
