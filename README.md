@@ -1,7 +1,7 @@
 # Enhancement for ibot
 Enhancement for i***bot
 
-A small program (Windows Only) that changes the appearance of IchiBot and adds a few things:
+A small program ( Windows Only, for now ) that changes the appearance of IchiBot and adds a few things:
 
 - Autocomplete
 - Preview of the current coin
