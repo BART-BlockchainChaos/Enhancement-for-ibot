@@ -1,3 +1,5 @@
+### !!! Use it at your own risk !!!!
+
 ### Enhancement for IchiBot
 
 A small program ( **Windows Only, for now** ) that changes the appearance of IchiBot and adds a few things:
