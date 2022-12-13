@@ -22,8 +22,7 @@ A small program ( **Windows Only, for now** ) that changes the appearance of Ich
 
 ## Keyboard shortcuts / Commands
 
-**$** - ( If you want to use autocomplete with automatic coin selection
-You need to use $ before typing ticker )
+**$** - ( If you want to use autocomplete, type $ before ticker )
 
   > example: $btc or $eth or $rune etc.
 
